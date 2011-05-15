@@ -20,7 +20,7 @@ body {
 
 #content {
 	position: relative;
-	margin-top: 12em;
+	margin-top: 10em;
 }
 
 #footer {
@@ -29,7 +29,7 @@ body {
 
 #navigation {
 	position: absolute;
-	top: 10em;	
+	top: 9em;	
 }
 
 #navigation li {

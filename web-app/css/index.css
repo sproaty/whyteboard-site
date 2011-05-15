@@ -1,43 +1,71 @@
+#content {
+	height: 37em;	
+}
+
 #about {
 	position: relative;
 	top: 2em;	
-	width: 40em;	
+	width: 32em;	
 }
+
+/*
+ * download
+*/
 
 #download {
 	position: absolute;
 	top: 2em;
-	left: 45em;
+	left: 40em;
 	width: 40em;
 }
 
-#download li {
-	display: inline;
-	margin-right: 1em;
-	width: 6.2em;
-	height: 6.2em;	
+#latest-version {
+	display: block;
+	margin-top: 0.7em;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#download ul {	
+	position: relative;		
+	width: 22em;
+	height: 10em;
 }
 
 #download a {
+	position: absolute;
 	display: block;
-	text-indent: -1000px;
-
+	margin: 0;
+	text-indent: -1000%;
 }
 
 #download-windows {
 	width: 5.1em;
 	height: 5.1em;
-	background-image: url('../images/windows.png');	
+	background: url('../images/windows.png') no-repeat;	
 }
 
 #download-linux {
+	left: 6.1em;
 	width: 4.6em;
 	height: 5.5em;
-	background-image: url('../images/linux.png');
+	background: url('../images/linux.png') no-repeat;
 }
 
 #download-mac {
+	left: 11.7em;
 	width: 6.1em;
 	height: 6.1em;
-	background-image: url('../images/mac.png');
+	background: url('../images/mac.png') no-repeat;
+}
+
+
+/*
+ * screenshots
+*/
+
+#screenshots {
+	position: absolute;
+	top: 20em;
+	
 }
