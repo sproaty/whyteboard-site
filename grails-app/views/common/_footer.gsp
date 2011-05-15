@@ -1,0 +1,1 @@
+<p id="footer">&copy; ${Calendar.getInstance().get(Calendar.YEAR)} <span id="author">Steven Sproat</span></p>
