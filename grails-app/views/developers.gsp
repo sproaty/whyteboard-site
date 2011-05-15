@@ -1,6 +1,5 @@
 <html>
     <head>
-        <meta name="layout" content="main" />
         <title>Developing Whyteboard</title>
     </head>
     <body>

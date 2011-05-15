@@ -1,12 +1,13 @@
 <html>
     <head>
-        <meta name="layout" content="main" />
         <title>Translate Whyteboard</title>
     </head>
     <body>
         <div id="about">
 			<h2>Help Translate</h2>
-
+			<p>Whyteboard is available in multiple languages, thanks to translation contributions from the community.</p>
+			<p>If you would like to improve existing translation phrases, or 
+			
 			<ol id="translate-guide">
 				<li>Register at <a href="https://launchpad.net/+login">Launchpad.net</a> and set your preferred language.</li>
 				<li>Go to <a href="https://translations.launchpad.net/whyteboard">Whyteboard Translations at Launchpad</a> and click the language you intend to help with. If you don't see your language, then you have not set your preferred language.</li>

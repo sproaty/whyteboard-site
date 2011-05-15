@@ -14,8 +14,8 @@
 	
 	<p:dependantJavascript>
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
-		<p:javascript src='application' />
 		<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.8/jquery.validate.min.js"></script>
+		<p:javascript src='application' />
 	</p:dependantJavascript>
     <g:layoutHead />
 </head>
@@ -23,7 +23,6 @@
 <body>
 	<div id="wrapper">
 		<div id="content">
-			<g:render template="/common/flash" />
 			<g:layoutBody />
 		</div>
 		<g:render template="/common/header" />

@@ -1,6 +1,5 @@
 <html>
     <head>
-        <meta name="layout" content="main" />
         <title>Whyteboard - A painting application</title>
         <p:css name="index" />
     </head>

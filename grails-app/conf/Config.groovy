@@ -55,6 +55,7 @@ grails.exceptionresolver.params.exclude = ['password']
 environments {
     production {
         grails.serverURL = "http://www.changeme.com"
+		uiperformance.enabled = false
     }
     development {
         grails.serverURL = "http://localhost:8080/${appName}"
@@ -89,13 +90,3 @@ log4j = {
 
     warn   'org.mortbay.log'
 }
-
-uiperformance.bundles = [
-	[type: 'js',
-	 name: 'whyteboard-js',
-	 files: ['application', 'jquery-ui-1.8.10.custom.min']],
-	[type: 'css',
-	 name: 'whyteboard-css',
-	 files: ['index', 'layout', 'style', 'ui-lightness/jquery-ui-1.8.10.custom']]
-]
- 

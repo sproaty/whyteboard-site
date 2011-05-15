@@ -1,6 +1,5 @@
 <html>
     <head>
-        <meta name="layout" content="main" />
         <title>Whyteboard: Contact</title>
         <p:css name="contact" />
     </head>
