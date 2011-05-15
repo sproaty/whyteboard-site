@@ -1,6 +1,6 @@
 <project name="whyteboard-site" xmlns:jsl="antlib:com.googlecode.jslint4java">
 	<jsl:jslint>
 		<formatter type="plain" />
-		<fileset dir="web-app/js" includes="*.js" excludes="jquery-ui*" />
+		<fileset dir="web-app/js" includes="*.js" excludes="*jquery*" />
 	</jsl:jslint>		
 </project>

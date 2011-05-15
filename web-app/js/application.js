@@ -1,8 +1,4 @@
 $(document).ready(function() {
-	setupFormValidators();		
-});
-
-function setupFormValidators() {
 	$("#contact").validate({
 		rules: {
 			name: { required: true },
@@ -10,4 +6,4 @@ function setupFormValidators() {
 		    comment: { required: true }
 		}
 	});
-}
+});
