@@ -2,7 +2,7 @@
     <head>
         <title>Whyteboard - A painting application</title>
         <p:css name="index" />
-        <p:css name="jquery-lightbox-0.5" />
+        <p:css name="jquery.lightbox-0.5" />
         
     </head>
     <body>
