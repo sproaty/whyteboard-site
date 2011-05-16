@@ -5,14 +5,14 @@
     </head>
     <body>
         <div id="about">
-        	<h2>Program Features.</h2>
+        	<h2>Program Features</h2>
         	
 			<ul id="features">
 				<li>Draw on a canvas using standard tools: pen, rectangle, circle, text</li>
 				<li>Annotate over PDF files</li>
 				<li>Drawn shapes can be resized, moved, rotated and re-coloured</li>
 				<li>Your drawing history is stored, allowing it to be replayed</li>
-				<li>Tabbed painting: each tab represents a whiteboard "sheet". Each sheet has unlimited undo/redo</li>
+				<li>Tabbed painting: each tab represents a whiteboard "sheet", with unlimited undo/redo</li>
 				<li>Each sheet has a thumbnail of the canvas, that updates as you draw</li>
 				<li>Closed sheets may be re-opened, restoring its data.</li>
 				<li>Note Controls, similar to Post-It Notes. An overview of all Notes in the document is provided</li>
@@ -24,7 +24,7 @@
         
 		<div id="resources">
 			<p>
-			Youtube Videos: <a href="http://www.youtube.com/watch?v=Yre8Lpxz2ww">one</a>; <a href="http://www.youtube.com/watch?v=TEDzG7yCTVo">two</a>; <a href="http://www.youtube.com/watch?v=_rDPekXQayM&feature=related">three</a> - Showing the program "in action".<br />
+			Youtube Videos: <a href="http://www.youtube.com/watch?v=Yre8Lpxz2ww">one</a>; <a href="http://www.youtube.com/watch?v=TEDzG7yCTVo">two</a>; <a href="http://www.youtube.com/watch?v=_rDPekXQayM">three</a> - Showing the program "in action".<br />
 			
 			<a href="http://code.google.com/p/whyteboard/wiki/Screenshots">Screenshots</a> - Pictures of Whyteboard on Windows/Linux/Mac.<br />
 			

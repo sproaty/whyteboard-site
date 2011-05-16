@@ -10,8 +10,13 @@ h2 {
 
 p, a {
 	font-size: 1.2em;
-	margin-top: 1em;
+	line-height: 1.5em;
+	margin-top: 0.3em;
 	margin-bottom: 1em;
+}
+
+p a {
+	font-size: 1.1em;	
 }
 
 label {
@@ -29,38 +34,10 @@ input[type=submit] {
 	margin-top: 1em;	
 }
 
-p.add {
-	background: url('../images/add.png') no-repeat;
-	text-indent: 2em;
-}
-
 div.field {
 	clear: both;
 	margin-top: 1em;
 	margin-bottom: 1em;		
-}
-
-ul.places {
-	float: left;
-	width: 30em;	
-}
-
-ul.places li {
-	position: relative;
-	width: 20em;	
-	height: 1.5em;
-	margin-bottom: 1.8em;
-}
-
-ul.places label {
-	position: absolute;
-	width: 14em;
-	right: 0;	
-}
-
-ul.places input[type=checkbox] {
-	position: absolute;
-	left: 0;	
 }
 
 label.error {
@@ -69,47 +46,4 @@ label.error {
 	margin-bottom: 0.5em;
 	margin-right: 34em;	
 	color: #FF0000;
-}
-
-div.eror-message {
-	width: 40em;
-	padding: 1em;
-	color: #FF0000;
-	font-weight: bold;
-	border: 1px solid #FF0000;	
-}
-
-div#google-map {
-	width: 50em;
-	height: 30em;
-}
-
-div.ui-state-highlight {
-	width: 40em;
-	padding: 1.5em;
-	margin-bottom: 2em;
-}
-
-div.ui-state-highlight{
-	width: 40em;
-	padding: 1.5em;
-	margin-bottom: 2em;
-}
-
-/*div.error {
-	background: #961721	
-}*/
-
-span.ui-icon {
-	float: left;
-	margin-right: 0.3em; 	
-}
-
-.ui-state-highlight p {
-	margin: 0;	
-}
-
-.ui-datepicker a {
-	margin-top: 0.1em;	
-	margin-bottom: 0.1em;
 }

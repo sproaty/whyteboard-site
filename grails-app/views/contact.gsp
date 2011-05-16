@@ -21,7 +21,7 @@
 					
 					<div class="field">
 						<label for="comment">* Comment:</label>
-						<textarea name="comment" id="comment"></textarea>
+						<textarea name="comment" id="comment" cols="30" rows="8"></textarea>
 					</div>	
 					
 					<div class="field">		
