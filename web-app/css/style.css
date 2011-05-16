@@ -19,6 +19,10 @@ p a {
 	font-size: 1.1em;	
 }
 
+pre {
+	font-size: 1.3em;	
+}
+
 label {
 	display: block;
 	float: left;
@@ -46,4 +50,8 @@ label.error {
 	margin-bottom: 0.5em;
 	margin-right: 34em;	
 	color: #FF0000;
+}
+
+.hidden {
+	display: none;
 }

@@ -6,4 +6,6 @@ $(document).ready(function() {
 		    comment: { required: true }
 		}
 	});
+	
+	$('a.lightbox').lightBox({ keyToClose: 'escape' });
 });

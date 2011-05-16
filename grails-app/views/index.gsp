@@ -7,9 +7,11 @@
     </head>
     <body>
         <div id="about">
-        	<h2>Whyteboard is...</h2>
-        	<p>Whyteboard is a <a href="http://en.wikipedia.org/wiki/Open-source_software">free &amp; open source</a> painting application, designed for Linux, Windows and Mac. It is suited towards creating visual presentations and for overlaying PDF images with annotations.</p>
-        	<p>It allows you to draw upon a canvas using drawing tools such as a pen and rectangle, and to draw on, and edit images.</p>      	 
+        	<h2>What is Whyteboard?</h2>
+        	<p>Whyteboard is an easy-to-use painting application that can be used to annotate PDF images. It is 
+        	   cross-platform and available in many languages.</p>
+        	<p>Whyteboard allows you to draw onto a virtual canvas using drawing tools such as a pen and rectangle, 
+        	   and to manipulate images.</p>      	 
         </div>
         
         <div id="download">
@@ -40,8 +42,8 @@
         
         <div id="screenshots">
         	<h2>Screenshots</h2>
-        	<img src="${g.resource(dir: 'images/screenshots', file: 'program-windows-small.png')}" alt="" />
-        	<!--<img src="${g.resource(dir: 'images/screenshots', file: 'program-linux-small.png')}" alt="" />-->
+        	<a href="images/screenshots/whyteboard-windows.png" class="lightbox" title="Whyteboard on Windows XP, annotating a PDF file."><img src="images/screenshots/whyteboard-windows-small.png" alt="" /></a>
+        	<a href="images/screenshots/whyteboard-linux.png" class="lightbox hidden" title="Whyteboard on Linux (Ubuntu 9.04) - using the Chinese translation"><img src="images/screenshots/whyteboard-linux-small.png" alt="" /></a>
         </div>        
     </body> 
 </html>

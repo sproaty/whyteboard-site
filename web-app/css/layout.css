@@ -13,9 +13,25 @@ body {
 	border: 1px solid #000000;
 }
 
+#navigation {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 97.5%;
+	height: 3em;
+	padding-top: 2em;
+	border-bottom: 1px solid black;	
+}
+
+#navigation li {
+	display: inline;
+	width: 5em;
+	margin-left: 2em;
+}
+
 #header {
 	position: absolute;
-	top: 2em;
+	top: 4em;
 }
 
 #content {
@@ -25,14 +41,4 @@ body {
 
 #footer {
 	margin-top: 3em;
-}
-
-#navigation {
-	position: absolute;
-	top: 9em;	
-}
-
-#navigation li {
-	display: inline;
-	margin-right: 1em;
 }
