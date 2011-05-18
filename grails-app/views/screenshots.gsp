@@ -1,42 +1,16 @@
 <html>
     <head>
-        <title>About Whyteboard</title>
+        <title>Screenshots of Whyteboard</title>
         <p:css name="about" />
     </head>
     <body>
         <div id="about">
-        	<h2>Program Features</h2>
-        	
-			<ul id="features">
-				<li>Draw on a canvas using standard tools: pen, rectangle, circle, text</li>
-				<li>Annotate over PDF files</li>
-				<li>Drawn shapes can be resized, moved, rotated and re-coloured</li>
-				<li>Your drawing history is stored, allowing it to be replayed</li>
-				<li>Tabbed painting: each tab represents a whiteboard "sheet", with unlimited undo/redo</li>
-				<li>Each sheet has a thumbnail of the canvas, that updates as you draw</li>
-				<li>Closed sheets may be re-opened, restoring its data.</li>
-				<li>Note Controls, similar to Post-It Notes. An overview of all Notes in the document is provided</li>
-				<li>Resize the canvas by grabbing the border anywhere and dragging it around</li>
-				<li>Embed as many audio/video player into the canvas as you wish</li>
-				<li>Translated into multiple languages (French, German, Spanish, Italian, Galician, Russian, Dutch, and more)</li>
-			</ul>        	
-        </div>
-        
-		<div id="resources">
-			<p>
+        	<p>Click an image to see a larger version of it.</p>
+
 			Youtube Videos: <a href="http://www.youtube.com/watch?v=Yre8Lpxz2ww">one</a>; <a href="http://www.youtube.com/watch?v=TEDzG7yCTVo">two</a>; <a href="http://www.youtube.com/watch?v=_rDPekXQayM">three</a> - Showing the program "in action".<br />
 			
 			<a href="http://code.google.com/p/whyteboard/wiki/Screenshots">Screenshots</a> - Pictures of Whyteboard on Windows/Linux/Mac.<br />
-			
-			<a href="http://bazaar.launchpad.net/~sproaty/whyteboard/development/files">Source Code Browser</a> - View the latest development code from the Bazaar version control repository.<br />
-			
-			<a href="https://bugs.launchpad.net/whyteboard/+bugs">Known Bugs</a> - Bugs that are being worked on.<br />
-			
-			<a href="http://blog.whyteboard.org/">Development Blog</a><br /><br />
-			</p>		
-		</div>   
 		
-		<div id="screenshots">
 			<ul>
 				<li><a href="http://img193.imageshack.us/img193/4263/whyteboard.png" class="lightbox"><img src="http://img101.imageshack.us/img101/5025/whyteboardsmall.png" alt="Annotating a PDF on Windows" /></a></li>
 				<li><a href="http://img337.imageshack.us/img337/1554/screenshot1ue.png" class="lightbox"><img src="http://img10.imageshack.us/img10/820/screenshot12oy.png" alt="Program translated in Chinese"></a></li>

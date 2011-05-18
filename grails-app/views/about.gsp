@@ -26,21 +26,12 @@
 			<p>
 			Youtube Videos: <a href="http://www.youtube.com/watch?v=Yre8Lpxz2ww">one</a>; <a href="http://www.youtube.com/watch?v=TEDzG7yCTVo">two</a>; <a href="http://www.youtube.com/watch?v=_rDPekXQayM">three</a> - Showing the program "in action".<br />
 			
-			<a href="http://code.google.com/p/whyteboard/wiki/Screenshots">Screenshots</a> - Pictures of Whyteboard on Windows/Linux/Mac.<br />
+			<a href="/screenshots">Screenshots</a> - Pictures of Whyteboard on Windows/Linux/Mac.<br />
 			
 			<a href="http://bazaar.launchpad.net/~sproaty/whyteboard/development/files">Source Code Browser</a> - View the latest development code from the Bazaar version control repository.<br />
 			
 			<a href="https://bugs.launchpad.net/whyteboard/+bugs">Known Bugs</a> - Bugs that are being worked on.<br />
-			
-			<a href="http://blog.whyteboard.org/">Development Blog</a><br /><br />
 			</p>		
-		</div>   
-		
-		<div id="screenshots">
-			<p><a href="http://img193.imageshack.us/img193/4263/whyteboard.png"><img src="http://img101.imageshack.us/img101/5025/whyteboardsmall.png" alt="Annotating a PDF on Windows" /></a></p>
-			<p><a href="http://img337.imageshack.us/img337/1554/screenshot1ue.png"><img src="http://img10.imageshack.us/img10/820/screenshot12oy.png" alt="Program translated in Chinese"></a></p>
-			<p><a href="http://img138.imageshack.us/img138/5092/screenshot29.png"><img src="http://img134.imageshack.us/img134/9123/screenshot29mall.png" alt="Annotating a PDF on Linux (GTK)" /></a></p>
-			<p><a href="http://img704.imageshack.us/img704/1982/whyteboardmac.png"><img src="http://img197.imageshack.us/img197/4918/whyteboardmacsmall.png" alt="On Mac" /></a></p>		
-		</div>     
+		</div>       
     </body>
 </html>

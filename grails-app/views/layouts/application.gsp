@@ -21,7 +21,7 @@
 		<g:render template="/common/header" />
 		<g:render template="/common/navigation" />
 		<g:render template="/common/footer" />
-	</div>	
+	</div>
 	<p:javascript src="external" />
 	<p:javascript src='application' />
 	<p:renderDependantJavascript />

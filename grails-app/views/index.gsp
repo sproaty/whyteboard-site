@@ -2,15 +2,13 @@
     <head>
         <title>Whyteboard - A painting application</title>
         <p:css name="index" />
-        <p:css name="jquery.lightbox-0.5" />
-        
     </head>
     <body>
         <div id="about">
         	<h2>What is Whyteboard?</h2>
         	<p>Whyteboard is an easy-to-use painting application that can be used to annotate PDF images. It is 
         	   cross-platform and available in many languages.</p>
-        	<p>Whyteboard allows you to draw onto a virtual canvas using drawing tools such as a pen and rectangle, 
+        	<p>Whyteboard allows you to draw onto a virtual canvas using such tools as pens and rectangles, 
         	   and to manipulate images.</p>      	 
         </div>
         
@@ -26,8 +24,7 @@
         </div>
         
         <div id="news-holder">
-        	<h2>Project News</h2>
-			
+        	<h2>Project News</h2>			
 			<ul id="news">
 				<li>
 					<h3>15 May 2011: Site Re-launched</h3>
@@ -35,15 +32,15 @@
 				</li>
 				<li>
 					<h3>17 Sep 2010: Whyteboard 0.41.1 Released</h3>
-					<p>Adds a new icon, fixes various bugs. <a href="https://launchpad.net/whyteboard/+milestone/0.41.1#release-data">See release information at Launchpad</a></p>
+					<p>Adds a new icon, fixes various bugs. <a href="https://launchpad.net/whyteboard/+milestone/0.41.1#release-data">See release information</a></p>
 				</li>				
 			</ul>
         </div>        
         
         <div id="screenshots">
         	<h2>Screenshots</h2>
-        	<a href="images/screenshots/whyteboard-windows.png" class="lightbox" title="Whyteboard on Windows XP, annotating a PDF file."><img src="images/screenshots/whyteboard-windows-small.png" alt="" /></a>
-        	<a href="images/screenshots/whyteboard-linux.png" class="lightbox hidden" title="Whyteboard on Linux (Ubuntu 9.04) - using the Chinese translation"><img src="images/screenshots/whyteboard-linux-small.png" alt="" /></a>
+        	<a href="images/screenshots/whyteboard-windows.png" class="lightbox" title="Whyteboard on Windows XP, annotating a PDF file."><img src="images/screenshots/whyteboard-windows-small.png" alt="Whyteboard on Windows XP, annotating a PDF file." width="350" height="250" /></a>
+        	<a href="images/screenshots/whyteboard-linux.png" class="lightbox hidden" title="Whyteboard on Linux (Ubuntu 9.04) - using the Chinese translation"><img src="images/screenshots/whyteboard-linux-small.png" alt="Whyteboard on Linux (Ubuntu 9.04) - using the Chinese translation" width="350" height="250" /></a>
         </div>        
     </body> 
 </html>

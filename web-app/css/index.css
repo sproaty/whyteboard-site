@@ -1,5 +1,5 @@
 #content {
-	height: 40em;	
+	height: 48em;	
 }
 
 #about {
@@ -11,8 +11,8 @@
 
 #download {
 	position: absolute;
-	left: 40em;
 	top: 0;
+	left: 45em;
 	width: 40em;
 }
 
@@ -72,7 +72,7 @@
 #news-holder {
 	position: absolute;
 	top: 20em;
-	left: 40em;	
+	left: 45em;	
 }
 
 #news {

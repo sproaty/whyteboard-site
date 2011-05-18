@@ -7,5 +7,5 @@ $(document).ready(function() {
 		}
 	});
 	
-	$('a.lightbox').lightBox({ keyToClose: 'escape' });
+	$('a.lightbox').lightBox();
 });

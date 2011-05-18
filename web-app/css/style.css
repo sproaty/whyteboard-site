@@ -1,11 +1,21 @@
-h1 {
+body {
+	background: none repeat scroll 0 0 #E0E0E0	
+}
+
+h1, h2, h3 {
 	font-weight: bold;
-	font-size: 2em;	
+}
+
+h1 {
+	font-size: 2.2em;	
 }
 
 h2 {
-	font-weight: bold;
-	font-size: 1.5em;	
+	font-size: 1.8em;	
+}
+
+h3 {
+	font-size: 1.4em;	
 }
 
 p, a {
@@ -19,9 +29,11 @@ p a {
 	font-size: 1.1em;	
 }
 
-pre {
-	font-size: 1.3em;	
+.hidden {
+	display: none;
 }
+
+/* forms */
 
 label {
 	display: block;
@@ -52,6 +64,25 @@ label.error {
 	color: #FF0000;
 }
 
-.hidden {
-	display: none;
+/* lightbox -- move close button to top */
+
+#lightbox-container-image {
+	position: relative;
+	top: 2em;	
+}
+
+#lightbox-nav {
+	top: 2em;		
+}
+
+#lightbox-secNav-btnClose {
+	float: none;
+	position: absolute;
+	right: 25em;
+	top: 0;	
+}
+
+#lightbox-container-image-data-box {
+	padding-top: 2em;
+	padding-bottom: 0.5em;	
 }
