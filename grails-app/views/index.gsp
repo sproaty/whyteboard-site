@@ -27,8 +27,12 @@
         	<h2>Project News</h2>			
 			<ul id="news">
 				<li>
-					<h3>15 May 2011: Site Re-launched</h3>
-					<p>whyteboard.org has been re-launched with a new layout</p>
+					<h3>15 May 2011 - Site re-launched</h3>
+					<p>whyteboard.org has been re-released, with a new layout and more information about the program.</p>
+				</li>
+				<li>
+					<h3>May 2011 - Whyteboard in Ubuntu main packages</h3>
+					<p>It appears that Whyteboard will be in <a href="https://launchpad.net/ubuntu/oneiric/+package/whyteboard">the upcoming Ubuntu 11.10 release.</a></p>
 				</li>
 				<li>
 					<h3>17 Sep 2010: Whyteboard 0.41.1 Released</h3>
