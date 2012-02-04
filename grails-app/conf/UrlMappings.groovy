@@ -9,5 +9,7 @@ class UrlMappings {
 		"/translate"(view: '/new-translate')
 		"500"(view: '/error')
 		"404"(view: "/404")
+		
+		"/old-index"(view: "/index")
 	}
 }

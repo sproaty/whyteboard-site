@@ -1,7 +1,6 @@
 <html>
     <head>
         <title>Screenshots of Whyteboard</title>
-        <meta name="layout" content="new" />
     </head>
     <body>
         <div id="about">

@@ -13,9 +13,8 @@ modules = {
 	
 	index {
 		dependsOn 'siteJS'
+		resource url: '/js/index.js' 
 		resource url: '/css/index-new.css'
-		
-		resource url: '/js/index.js'
 	}
 	
 	contact {

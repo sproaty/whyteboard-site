@@ -13,9 +13,9 @@
        		<p>Latest version: <em>0.41.1</em> September 2010</p>
         	<p><a id="download" class="btn primary large" href="http://code.google.com/p/whyteboard/downloads/list">Download now &raquo;</a></p>
 			<ul id="platforms">
-				<li><a href="#" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
-				<li><a href="#" id="download-linux" title="Download Whyteboard for Linux">Linux</a></li>
-				<li><a href="#" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
+				<li class="windows"><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1-installer.exe" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
+				<li class="linux"><a href="http://code.google.com/p/whyteboard/downloads/list" id="download-linux" title="Download Whyteboard for Linux">Linux</a></li>
+				<li class="mac"><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.tar.gz" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
 			</ul>        	
 		</div>
 
@@ -29,7 +29,6 @@
           			<li>Multiple sheets - use an intuitive tab interface</li>
           			<li>Embed an audio/video player onto the canvas</li>
           		</ul>
-          		<!-- <p><a class="btn" href="#">More ...</a></p>-->
           	</div>          	       	
           	<div class="span5">
           		<h2>Cross Platform</h2>
@@ -40,14 +39,6 @@
         		<p>Whyteboard is free, and its source code is available</p>
           	</div>
        	</div>
-       	<!-- 
-       	<div class="row">
-        	<div class="span6">
-        		<h2>Easy to Use</h2>
-        		<p>Whyteboard has a simple and familiar user interface</p>
-	        </div>
-		</div>
-		 -->
 		
 		<div class="row screenshots">
 			<div class="span5"><a href="images/screenshots/windows.jpg" class="lightbox"><img alt="" src="images/screenshots/windows-small.jpg" class="thumbnail" /></a></div>

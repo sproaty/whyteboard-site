@@ -1,7 +1,6 @@
 <html>
     <head>
         <title>Whyteboard - A painting application</title>
-        <p:css name="index" />
     </head>
     <body>
         <div id="about">
@@ -17,9 +16,9 @@
 			<p>The latest version of Whyteboard is <span id="latest-version">0.42</span></p>
 			
 			<ul id="platforms">
-				<li><a href="#" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
-				<li><a href="#" id="download-linux" title="Download Whyteboard for Linux">Linux</a></li>
-				<li><a href="#" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
+				<li class="windows"><a href="#" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
+				<li class="linux"><a href="#" id="download-linux" title="Download Whyteboard for Linux">Linux</a></li>
+				<li class="mac"><a href="#" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
 			</ul>
         </div>
         
