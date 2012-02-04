@@ -16,7 +16,16 @@ h1 {
 	margin-bottom: 10px;
 }
 
+#translation-guide {
+	width: 820px;
+    margin-top: 10px;
+}
+
+#translation-guide li {
+    margin: 8px 0;
+}
+
 #translation-guide img {
-    margin: 1em 0 1em 4em;
+    margin: 10px 0 10px 10px;
     border: 1px solid #000;
 }

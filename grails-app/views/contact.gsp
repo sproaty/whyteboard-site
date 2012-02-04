@@ -1,9 +1,10 @@
 <html>
 	<head>
-		<title>Whyteboard: Contact</title>
+		<title>Whyteboard - Contact</title>
 		<r:require module="contact" /> 
 	</head>
 	<body>
+		<p>You can reach me via email through <a href="steven@whyteboard.org">steven@whyteboard.org</a> or alternatively use the below form</p>			
 		<form method="post" id="contact">
 			<fieldset class="control-group">
 				<label for="name">Name</label>
@@ -24,5 +25,6 @@
 				<button class="btn" type="submit">Submit</button>
 			</fieldset>
 		</form>
+
     </body>
 </html>

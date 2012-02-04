@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Get Involved</title>
+        <title>Whyteboard - Get Involved</title>
     </head>
     <body>
        	<p>go on</p>

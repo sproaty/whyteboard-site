@@ -1,4 +1,4 @@
-<html>
+	<html>
     <head>
         <title>About Whyteboard</title>
         <r:require module="about" />
@@ -30,5 +30,7 @@
 				<li>Article about Whyteboard in the <a href="http://www.linuxjournal.com/article/10906">Linux Journal Issue 200</a>, December 2010.</li>
 			</ul>
 		</div> 
+		
+		<p>Suggestions for new/enhanced features and functionality can be left at <a href="http://whyteboard.uservoice.com">http://whyteboard.uservoice.com</a></p>
     </body>
 </html>
