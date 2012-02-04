@@ -1,15 +1,15 @@
 class UrlMappings {
 	static mappings = {
-		"/"(view: "/new-index")
-		"/about"(view: '/new-about')
-		"/contact"(view: '/new-contact')
-		"/developers"(view: '/new-developers')
-		"/documentation"(view: '/documentation')
+		"/"(view: "/index")
+		"/about"(view: '/about')
+		"/download"(view: '/download')
 		"/screenshots"(view: '/screenshots')
-		"/translate"(view: '/new-translate')
+		"/contact"(view: '/contact')
+		"/translate"(view: '/translate')
+		"/documentation"(view: '/documentation')
+		"/developers"(view: '/developers')
+		"/get-involved"(view: '/get-involved')
 		"500"(view: '/error')
 		"404"(view: "/404")
-		
-		"/old-index"(view: "/index")
 	}
 }

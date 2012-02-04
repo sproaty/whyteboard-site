@@ -1,86 +1,66 @@
-#about {
-	position: relative;
-	width: 32em;	
+h1 {
+	padding-top: 15px;
+	padding-bottom: 5px;
 }
 
-/* ---------------- */
+h2 {
+	padding-bottom: 5px;	
+}
+
+.hero-unit {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.topbar li {
+	padding-right: 15px;	
+}
 
 #download {
-	position: absolute;
-	top: 0;
-	left: 45em;
-	width: 40em;
+	position: relative;
+	left: 360px;
+	top: -124px;	
 }
 
-#latest-version {
+div.screenshots {
+	padding-top: 25px;	
+}
+
+#platforms {
+	position: relative;
+	left: 465px;
+	bottom: 133px;
+	width: 100px;
+	margin-bottom: -149px;
+	display: none;
+	list-style-type: none;
+}
+
+#platforms li a {
 	display: block;
-	margin-top: 0.7em;
-	font-size: 1.5em;
-	font-weight: bold;
-}
-
-#download ul {	
-	position: relative;		
-	width: 22em;
-	height: 10em;
-}
-
-#download a {
-	position: absolute;
-	display: block;
-	margin: 0;
-	text-indent: -1000%;
+	text-indent: -1000px;	
 }
 
 #download-windows {
-	width: 5.1em;
-	height: 5.1em;
-	background: url('../images/windows.png') no-repeat;	
+	width: 65px;
+	height: 65px;
+	background: url('../images/os/windows.png') no-repeat;	
 }
 
 #download-linux {
-	left: 6.1em;
-	width: 4.6em;
-	height: 5.5em;
-	background: url('../images/linux.png') no-repeat;
+	position: relative;
+	top: -65px;
+	left: 80px;
+	width: 65px;
+	height: 65px;	
+	background: url('../images/os/linux.png') no-repeat;
 }
 
 #download-mac {
-	left: 11.7em;
-	width: 6.1em;
-	height: 6.1em;
-	background: url('../images/mac.png') no-repeat;
-}
-
-/* ---------------- */
-
-#screenshots {
-	position: absolute;
-	top: 20em;	
-}
-
-#screenshots img {
-	margin-top: 1em;	
-}
-
-/* ---------------- */
-
-#news-holder {
-	position: absolute;
-	top: 20em;
-	left: 45em;	
-}
-
-#news {
-	margin-top: 1.5em;
-	
-}
-
-#news h3 {
-	font-weight: bold;
-	font-size: 1.2em;
-}
-
-#news p {
-	margin-bottom: 1.5em;
+	position: relative;
+	top: -132px;
+	left: 160px;
+	width: 65px;
+	height: 65px;	
+	background: url('../images/os/mac.png') no-repeat;
 }

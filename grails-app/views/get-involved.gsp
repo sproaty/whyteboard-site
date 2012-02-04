@@ -1,10 +1,8 @@
 <html>
     <head>
-        <title>Developing Whyteboard</title>
+        <title>Get Involved</title>
     </head>
     <body>
-        <div id="developers">
-        	<h2>This page contains information about developing Whyteboard.</h2>
-        </div>
+       	<h2>Ggggggggggggget involved!</h2>
     </body>
 </html>

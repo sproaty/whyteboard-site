@@ -79,12 +79,6 @@ log4j = {
 }
 
 
-grails.plugin.cloudfoundry.username = "sproaty@gmail.com"
-grails.plugin.cloudfoundry.password = "yik1CC3S"
-grails.plugin.cloudfoundry.showStackTrace = true
-
-grails.sitemesh.default.layout = 'new'
-
 // set per-environment serverURL stem for creating absolute links
 environments {
 	production {
@@ -98,3 +92,5 @@ environments {
 		grails.serverURL = "http://localhost:8080/${appName}"
 	}
 }
+
+grails.plugins.twitterbootstrap.defaultBundle = 'bootstrap'

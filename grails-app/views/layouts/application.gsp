@@ -12,9 +12,9 @@
 <body>
 	<div class="container">
 		<g:layoutBody />
-		<tmpl:/new/footer />
+		<tmpl:/layouts/footer />
     </div>
-	<tmpl:/new/header />
+	<tmpl:/layouts/header />
 	<r:layoutResources />
     </body>
 </html>

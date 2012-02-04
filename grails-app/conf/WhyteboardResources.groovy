@@ -2,7 +2,7 @@ modules = {
 	site {
 		dependsOn 'bootstrap-css'
 		
-		resource url: '/css/jquery-lightbox.css'
+		resource url: '/css/jquery-lightbox.css', bundle: 'bootstrap'
 		resource url: '/images/favicon.ico'
 	}	
 	
@@ -14,16 +14,16 @@ modules = {
 	index {
 		dependsOn 'siteJS'
 		resource url: '/js/index.js' 
-		resource url: '/css/index-new.css'
+		resource url: '/css/index.css'
 	}
 	
 	contact {
 		dependsOn 'siteJS'
-		resource url: '/css/contact-new.css'
+		resource url: '/css/contact.css'
 	}
 	
 	about {
 		dependsOn 'site'
-		resource url: '/css/about-new.css'
+		resource url: '/css/about.css'
 	}
 }
