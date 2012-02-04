@@ -1,5 +1,5 @@
-	<div class="topbar">
-		<div class="fill">
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
 			<div class="container">
 				<ul class="nav">
 					<whyteboard:nav links="[

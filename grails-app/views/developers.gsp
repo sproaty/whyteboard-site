@@ -3,6 +3,8 @@
         <title>Developing Whyteboard</title>
     </head>
     <body>
-       	<h2>This page contains information about developing Whyteboard.</h2>
+    	<div>
+       		<h2>This page contains information about developing Whyteboard.</h2>
+     	</div>
     </body>
 </html>

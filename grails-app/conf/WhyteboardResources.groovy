@@ -1,8 +1,8 @@
 modules = {
 	site {
-		dependsOn 'bootstrap-css'
-		
-		resource url: '/css/jquery-lightbox.css', bundle: 'bootstrap'
+		resource url: '/css/bootstrap/css/bootstrap.min.css'
+		resource url: '/css/jquery-lightbox.css'
+		resource url: '/css/whyteboard.css'
 		resource url: '/images/favicon.ico'
 	}	
 	

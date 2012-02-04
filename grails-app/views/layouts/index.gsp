@@ -10,10 +10,7 @@
 	<r:layoutResources />
 </head>
 <body>
-	<div class="container whyteboard-page">
-    	<header>
-    		<h1><g:layoutTitle /></h1>
-    	</header>	
+	<div class="container">
 		<g:layoutBody />
 		<tmpl:/layouts/footer />
     </div>

@@ -7,7 +7,7 @@ class UrlMappings {
 		"/contact"(view: '/contact')
 		"/translate"(view: '/translate')
 		"/documentation"(view: '/documentation')
-		"/developers"(view: '/developers')
+		"/developer-guide"(view: '/developers')
 		"/get-involved"(view: '/get-involved')
 		"500"(view: '/error')
 		"404"(view: "/404")

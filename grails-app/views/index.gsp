@@ -2,6 +2,7 @@
    <head>
       <title>Whyteboard: An open source painting program</title>
       <r:require module="index" />
+      <meta name="layout" content="index" />
 </head>
 <body>
 		<div class="hero-unit">
@@ -20,7 +21,7 @@
 		</div>
 
       	<div class="row">
-          	<div class="span5">
+          	<div class="span4">
           		<h2>Fully Featured</h2>
           		<ul>
           			<li>Draw with familiar tools: pen, rectangle, text</li>
@@ -30,20 +31,20 @@
           			<li>Embed an audio/video player onto the canvas</li>
           		</ul>
           	</div>          	       	
-          	<div class="span5">
+          	<div class="span4">
           		<h2>Cross Platform</h2>
           		<p>Runs on Windows, Linux and Mac operating systems</p>
           	</div>
-	        <div class="span5">
+	        <div class="span4">
 	        	<h2>Open Source</h2>
         		<p>Whyteboard is free, and its source code is available</p>
           	</div>
        	</div>
 		
 		<div class="row screenshots">
-			<div class="span5"><a href="images/screenshots/windows.jpg" class="lightbox"><img alt="" src="images/screenshots/windows-small.jpg" class="thumbnail" /></a></div>
-			<div class="span5"><a href="images/screenshots/linux.jpg" class="lightbox"><img alt="" src="images/screenshots/linux-small.jpg" class="thumbnail" /></a></div>
-			<div class="span5"><a href="images/screenshots/mac.jpg" class="lightbox"><img alt="" src="images/screenshots/mac-small.jpg" class="thumbnail" /></a></div>
+			<div class="span4"><a href="images/screenshots/windows.jpg" class="lightbox"><img alt="" src="images/screenshots/windows-small.jpg" class="thumbnail" /></a></div>
+			<div class="span4"><a href="images/screenshots/linux.jpg" class="lightbox"><img alt="" src="images/screenshots/linux-small.jpg" class="thumbnail" /></a></div>
+			<div class="span4"><a href="images/screenshots/mac.jpg" class="lightbox"><img alt="" src="images/screenshots/mac-small.jpg" class="thumbnail" /></a></div>
 		</div>
 </body>
 </html>

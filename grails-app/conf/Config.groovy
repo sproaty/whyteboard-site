@@ -86,11 +86,8 @@ environments {
 	}
 	development {
 		grails.serverURL = "http://localhost:8080/${appName}"
-		uiperformance.enabled = false
 	}
 	test {
 		grails.serverURL = "http://localhost:8080/${appName}"
 	}
 }
-
-grails.plugins.twitterbootstrap.defaultBundle = 'bootstrap'
