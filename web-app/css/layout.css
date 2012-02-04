@@ -6,8 +6,6 @@ body {
 #wrapper {
 	position: relative;
 	width: 98em;	
-	top: 2em;
-	padding: 2em;
 	margin-left: auto;
 	margin-right: auto;
 	border: 1px solid #000000;
@@ -37,6 +35,7 @@ body {
 #content {
 	position: relative;
 	margin-top: 12em;
+	min-height: 60em;
 }
 
 #footer {

@@ -1,0 +1,31 @@
+h1 {
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+h2 {
+	padding-bottom: 5px;	
+}
+
+.hero-unit {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.topbar li {
+	padding-right: 15px;	
+}
+
+#download {
+	position: relative;
+	left: 360px;
+	top: -124px;	
+}
+
+div.screenshots {
+	padding-top: 25px;	
+}
+
+#platforms {
+	display: none;
+}

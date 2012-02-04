@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>About Whyteboard</title>
-        <p:css name="about" />
+		<r:require module="about" />
     </head>
     <body>
         <div id="about">

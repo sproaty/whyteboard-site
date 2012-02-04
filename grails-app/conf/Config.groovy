@@ -51,20 +51,6 @@ grails.spring.bean.packages = []
 // request parameters to mask when logging exceptions
 grails.exceptionresolver.params.exclude = ['password']
 
-// set per-environment serverURL stem for creating absolute links
-environments {
-    production {
-        grails.serverURL = "http://www.changeme.com"
-    }
-    development {
-        grails.serverURL = "http://localhost:8080/${appName}"
-		uiperformance.enabled = false
-    }
-    test {
-        grails.serverURL = "http://localhost:8080/${appName}"
-    }
-
-}
 
 // log4j configuration
 log4j = {
@@ -88,4 +74,27 @@ log4j = {
            'net.sf.ehcache.hibernate'
 
     warn   'org.mortbay.log'
+	
+	debug  'whyteboard'  //  controllers
+}
+
+
+grails.plugin.cloudfoundry.username = "sproaty@gmail.com"
+grails.plugin.cloudfoundry.password = "yik1CC3S"
+grails.plugin.cloudfoundry.showStackTrace = true
+
+grails.sitemesh.default.layout = 'new'
+
+// set per-environment serverURL stem for creating absolute links
+environments {
+	production {
+		grails.serverURL = "http://whyteboard.cloudfoundry.com"
+	}
+	development {
+		grails.serverURL = "http://localhost:8080/${appName}"
+		uiperformance.enabled = false
+	}
+	test {
+		grails.serverURL = "http://localhost:8080/${appName}"
+	}
 }

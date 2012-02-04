@@ -1,0 +1,10 @@
+prodDb.script
+prodDb.properties
+prodDb.log
+target/
+stacktrace.log
+web-app/WEB-INF/
+.classpath
+.project
+.settings/
+.link_to_grails_plugins/

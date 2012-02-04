@@ -14,7 +14,7 @@
         
         <div id="download">
         	<h2>Download Whyteboard</h2>
-			<p>The latest version of Whyteboard is <span id="latest-version">0.41.1</span></p>
+			<p>The latest version of Whyteboard is <span id="latest-version">0.42</span></p>
 			
 			<ul id="platforms">
 				<li><a href="#" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
@@ -32,7 +32,7 @@
 				</li>
 				<li>
 					<h3>May 2011 - Whyteboard in Ubuntu main packages</h3>
-					<p>It appears that Whyteboard will be in <a href="https://launchpad.net/ubuntu/oneiric/+package/whyteboard">the upcoming Ubuntu 11.10 release.</a></p>
+					<p>Whyteboard will be in <a href="https://launchpad.net/ubuntu/oneiric/+package/whyteboard">the upcoming Ubuntu 11.10 release.</a></p>
 				</li>
 				<li>
 					<h3>17 Sep 2010: Whyteboard 0.41.1 Released</h3>

@@ -1,6 +1,5 @@
 <html>
     <head>
-    <meta name="layout" content="application" />
         <title>404 - Page Not Found</title>
     </head>
     <body>
