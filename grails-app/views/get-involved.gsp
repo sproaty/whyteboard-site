@@ -3,6 +3,6 @@
         <title>Get Involved</title>
     </head>
     <body>
-       	<h2>Ggggggggggggget involved!</h2>
+       	<p>go on</p>
     </body>
 </html>

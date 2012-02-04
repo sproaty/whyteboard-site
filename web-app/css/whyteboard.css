@@ -1,3 +1,22 @@
 .whyteboard-page {
 	margin-top: 65px;	
 }
+
+h1 {
+	margin-bottom: 20px;	
+}
+
+.footer {
+	border-top: 1px solid #E5E5E5;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+
+#contact div {
+	margin-bottom: 10px;
+}
+
+#translation-guide img {
+    margin: 1em 0 1em 4em;
+    border: 1px solid #000;
+}

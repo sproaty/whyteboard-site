@@ -3,7 +3,7 @@
         <title>Whyteboard Documentation</title>
     </head>
     <body>
-       	<h2>Documentation</h2>
+       	<h3>Documentation</h3>
        	<p>This page contains links with information on how to use the program.</p>
         	
        	<h3>Translations</h3>

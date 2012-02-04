@@ -11,7 +11,7 @@
         		<h2 id="summary">A free, easy to use painting application</h2>
         	</hgroup>
         	
-       		<p>Latest version: <em>0.41.1</em> September 2010</p>
+       		<tmpl:/layouts/version />
         	<p><a id="download" class="btn primary large" href="http://code.google.com/p/whyteboard/downloads/list">Download now &raquo;</a></p>
 			<ul id="platforms">
 				<li class="windows"><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1-installer.exe" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>

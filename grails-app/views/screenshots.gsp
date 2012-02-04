@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Screenshots of Whyteboard</title>
+        <title>Whyteboard Screnshots</title>
     </head>
     <body>
        	<p>Click an image to see a larger version of it.</p>

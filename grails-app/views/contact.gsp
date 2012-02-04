@@ -4,28 +4,24 @@
 		<r:require module="contact" /> 
 	</head>
 	<body>
-    	<h2>Contact the Developer</h2>
-     	
 		<form method="post" id="contact">
-			<fieldset>
-				<div class="field">
-					<label for="name">* Name:</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				
-				<div class="field">
-					<label for="email">* E-mail Address:</label>
-					<input type="text" name="email" id="email" />
-				</div>	
-				
-				<div class="field">
-					<label for="comment">* Comment:</label>
-					<textarea name="comment" id="comment" cols="30" rows="8"></textarea>
-				</div>	
-				
-				<div class="field">		
-					<input type="submit" value="Submit" />
-				</div>
+			<fieldset class="control-group">
+				<label for="name">Name</label>
+				<input type="text" name="name" id="name" />
+			</fieldset>
+			
+			<fieldset class="control-group">
+				<label for="email">E-mail Address</label>
+				<input type="text" name="email" id="email" />
+			</fieldset>
+			
+			<fieldset class="control-group">
+				<label for="comment">Comment</label>
+				<textarea name="comment" id="comment" cols="30" rows="8"></textarea>
+			</fieldset>
+			
+			<fieldset class="control-group">		
+				<button class="btn" type="submit">Submit</button>
 			</fieldset>
 		</form>
     </body>

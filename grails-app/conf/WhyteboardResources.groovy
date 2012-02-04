@@ -20,6 +20,7 @@ modules = {
 	contact {
 		dependsOn 'siteJS'
 		resource url: '/css/contact.css'
+		resource url: '/js/contact.js'
 	}
 	
 	about {
