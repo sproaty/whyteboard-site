@@ -7,11 +7,12 @@
 					'About': 'about',
 					'Download': 'download',  
 					'Screenshots': 'screenshots',
-					'Contact': 'contact',
+					'News': 'news',
 					'Help Translate': 'translate',
 					'Documentation': 'documentation',
 					'Developers': 'developer-guide',
-					'Get Involved': 'get-involved' 
+					'Get Involved': 'get-involved',
+					'Contact': 'contact'
 					]" />
 				</ul>
 			</div>

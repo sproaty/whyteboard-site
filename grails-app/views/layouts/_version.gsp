@@ -1,1 +1,1 @@
-<p>Latest version: <em>0.41.1</em> September 2010</p>
+<p>Latest version: <strong>0.41.1</strong> September 2010</p>

@@ -10,13 +10,14 @@ class WhyteboardTagLib {
 	 * @attr links Hashmap of link titles and URLs.
 	 */
 	def nav = { attrs, body ->
-		attrs.links.each { title, url ->
+		Map<String, String> links = attrs.links
+		links.each { title, url ->
 			def active = ''
-			if (request.forwardURI == "/whyteboard/$url") {
+			if (request.forwardURI == "/$url") {
 				active = ' class="active"'
 			}
 			
-			out << """<li$active><a href="/whyteboard/$url">$title</a></li>"""
+			out << """<li$active><a href="/$url">$title</a></li>"""
 		}
 	}
 }

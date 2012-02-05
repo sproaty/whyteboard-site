@@ -19,7 +19,7 @@ h2 {
 #download {
 	position: relative;
 	left: 360px;
-	top: -124px;	
+	top: -145px;	
 }
 
 div.screenshots {
@@ -31,7 +31,7 @@ div.screenshots {
 	left: 465px;
 	bottom: 133px;
 	width: 100px;
-	margin-bottom: -149px;
+	margin-bottom: -172px;
 	display: none;
 	list-style-type: none;
 }
