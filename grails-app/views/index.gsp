@@ -13,11 +13,16 @@
         	
        		<tmpl:/layouts/version />
         	<p><a id="download" class="btn primary large" href="http://code.google.com/p/whyteboard/downloads/list">Download now &raquo;</a></p>
-			<ul id="platforms">
-				<li class="windows"><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1-installer.exe" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
-				<li class="linux"><a href="http://code.google.com/p/whyteboard/downloads/list" id="download-linux" title="Download Whyteboard for Linux">Linux</a></li>
-				<li class="mac"><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.tar.gz" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
-			</ul>        	
+			<ul id="platforms" class="unstyled">
+				<li><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1-installer.exe" id="download-windows" title="Download Whyteboard for Windows">Windows</a></li>
+				<li><a href="http://code.google.com/p/whyteboard/downloads" id="download-linux" title="Download Whyteboard for Linux" target="_blank">Linux</a></li>
+				<li><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.tar.gz" id="download-mac" title="Download Whyteboard for Mac">Mac</a></li>
+			</ul> 
+			<ul id="linux" class="unstyled">
+				<li><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.rpm" id="download-redhat" title="Download Whyteboard for Red Hat">Red Hat</a></li>
+				<li><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.deb" id="download-debian" title="Download Whyteboard for Debian">Debian</a></li>
+				<li><a href="http://whyteboard.googlecode.com/files/whyteboard-0.41.1.tar.gz" id="download-other"  title="Download Whyteboard for other Linux platforms">Other</a></li>
+			</ul>       	
 		</div>
 
       	<div class="row">

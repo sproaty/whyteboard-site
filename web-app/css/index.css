@@ -26,41 +26,45 @@ div.screenshots {
 	padding-top: 25px;	
 }
 
-#platforms {
+#platforms, #linux {
 	position: relative;
 	left: 465px;
 	bottom: 133px;
-	width: 100px;
-	margin-bottom: -172px;
+	width: 210px;
 	display: none;
-	list-style-type: none;
 }
 
-#platforms li a {
-	display: block;
-	text-indent: -1000px;	
+#platforms li,
+#linux li {
+	display: inline;	
+}
+
+#platforms li a,
+#linux li a {
+	position: relative;
+	width: 65px;
+	height: 80px;
+	display: inline-block;
+	text-indent: -1000px;
 }
 
 #download-windows {
-	width: 65px;
-	height: 65px;
 	background: url('../images/os/windows.png') no-repeat;	
 }
 
-#download-linux {
-	position: relative;
-	top: -65px;
-	left: 80px;
-	width: 65px;
-	height: 65px;	
+#download-linux,
+#download-other {
 	background: url('../images/os/linux.png') no-repeat;
 }
 
 #download-mac {
-	position: relative;
-	top: -132px;
-	left: 160px;
-	width: 65px;
-	height: 65px;	
 	background: url('../images/os/mac.png') no-repeat;
+}
+
+#download-debian {
+	background: url('../images/os/debian.png') no-repeat;	
+}
+
+#download-redhat {
+	background: url('../images/os/redhat.png') no-repeat;	
 }

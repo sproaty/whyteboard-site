@@ -16,8 +16,9 @@
        		<li>Write a blog/article/review of Whyteboard</li>
        	</ul>
 		
-		<h3>Help Out</h3>
+		<h3>Help Out / Resources</h3>
 		<ul>
+			<li><a href="http://launchpad.net/whyteboard">Whyteboard on Launchpad</a></li>
 			<li><a href="/translate">Translate Whyteboard</a></li>
 			<li><a href="/developer-guide">Submit new code / patches</a></li>
 		</ul>       	
